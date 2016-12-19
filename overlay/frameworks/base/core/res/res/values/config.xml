@@ -163,9 +163,6 @@
     <!-- Default color for notification LED. -->
     <color name="config_defaultNotificationColor">#FFFF00FF</color>
 
-    <!-- Set to true to add links to Cell Broadcast app from Settings and MMS app. -->
-    <bool name="config_cellBroadcastAppLinks">true</bool>
-
     <!-- Default LED on time for notification LED in milliseconds. -->
     <integer name="config_defaultNotificationLedOn">0</integer>
 
